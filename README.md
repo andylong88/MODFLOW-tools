@@ -1,1 +1,1 @@
-Use the modeling environment (Andy Long)
+Use the modeling environment (from Andy Long)
